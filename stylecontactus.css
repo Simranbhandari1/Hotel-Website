@@ -1,0 +1,128 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.gupter-regular {
+    font-family: "Gupter", serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 17.2px;
+  }
+
+  
+
+.playfair-display-h {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+  
+  .gupter-medium {
+    font-family: "Gupter", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .gupter-bold {
+    font-family: "Gupter", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+
+  .merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16px;
+  }
+  
+  .merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 250;
+    font-style: normal;
+    font-size: 16px;
+  }
+  
+  .merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .merriweather-black {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .merriweather-light-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .merriweather-regular-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .merriweather-bold-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .merriweather-black-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+
+.contactus-form{
+
+    display: flex;
+    justify-content: center;
+   
+
+}
+
+.footer2 p{
+
+font-weight: 350;
+font-size: 20px;
+
+}
+
+.head{
+
+margin-top: 20px;
+
+}
+.head1{
+
+    margin-top: 40px;
+}
+
+.head h5{
+
+border-bottom: 1px solid white;
+}
+
+.membership1{
+
+display: flex;
+justify-content: space-evenly;
+
+}
+
+.membership2 p{
+
+    font-weight: 500;
+}
